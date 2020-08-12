@@ -1,1 +1,1 @@
-# eg-01-csharp-jwt-framework
+## This repo has been replaced by [the new C# code examples repo](https://github.com/docusign/code-examples-csharp)
